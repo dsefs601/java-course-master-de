@@ -1,0 +1,14 @@
+/Users/Malasha/Desktop/java-course-master/src/main/java/edu/au/covidreporter/CovidReporterApplication.java
+/Users/Malasha/Desktop/java-course-master/src/main/java/edu/au/covidreporter/configuration/AsyncConfiguration.java
+/Users/Malasha/Desktop/java-course-master/src/main/java/edu/au/covidreporter/dto/ErrorDto.java
+/Users/Malasha/Desktop/java-course-master/src/main/java/edu/au/covidreporter/model/ReportEntity.java
+/Users/Malasha/Desktop/java-course-master/src/main/java/edu/au/covidreporter/dto/ReportDto.java
+/Users/Malasha/Desktop/java-course-master/src/main/java/edu/au/covidreporter/dto/CreateReportParametersDto.java
+/Users/Malasha/Desktop/java-course-master/src/main/java/edu/au/covidreporter/service/ReportService.java
+/Users/Malasha/Desktop/java-course-master/src/main/java/edu/au/covidreporter/service/CsvFileService.java
+/Users/Malasha/Desktop/java-course-master/src/main/java/edu/au/covidreporter/service/DictionaryService.java
+/Users/Malasha/Desktop/java-course-master/src/main/java/edu/au/covidreporter/controller/CovidReporterController.java
+/Users/Malasha/Desktop/java-course-master/src/main/java/edu/au/covidreporter/dto/FileDownloadDto.java
+/Users/Malasha/Desktop/java-course-master/src/main/java/edu/au/covidreporter/repository/ReportRepository.java
+/Users/Malasha/Desktop/java-course-master/src/main/java/edu/au/covidreporter/model/CovidDataEntity.java
+/Users/Malasha/Desktop/java-course-master/src/main/java/edu/au/covidreporter/repository/CovidDataRepository.java

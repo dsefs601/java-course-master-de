@@ -1,0 +1,14 @@
+edu/au/covidreporter/dto/ErrorDto.class
+edu/au/covidreporter/repository/ReportRepository.class
+edu/au/covidreporter/model/ReportEntity.class
+edu/au/covidreporter/service/CsvFileService.class
+edu/au/covidreporter/controller/CovidReporterController.class
+edu/au/covidreporter/dto/CreateReportParametersDto.class
+edu/au/covidreporter/repository/CovidDataRepository.class
+edu/au/covidreporter/configuration/AsyncConfiguration.class
+edu/au/covidreporter/model/CovidDataEntity.class
+edu/au/covidreporter/service/ReportService.class
+edu/au/covidreporter/dto/FileDownloadDto.class
+edu/au/covidreporter/dto/ReportDto.class
+edu/au/covidreporter/service/DictionaryService.class
+edu/au/covidreporter/CovidReporterApplication.class
